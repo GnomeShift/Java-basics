@@ -15,6 +15,7 @@ This repository contains my study tasks.
 
 ## 🚀Quick navigation
 * [First 20 tasks](/Tasks/First20)
+* [Second 20 tasks](/Tasks/Second20)
 
 # ⚙️Configuration
 Just open the project in your IDE.

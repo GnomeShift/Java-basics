@@ -14,9 +14,10 @@
 This repository contains my study tasks.
 
 ## 🚀Quick navigation
-* [First 20 tasks](/Tasks/First20)
-* [20 OOP tasks](/Tasks/OOP20)
-* [10 ArrayList tasks](/Tasks/ArrayList10)
+* [First 20 tasks](/Tasks/First20/src)
+* [20 OOP tasks](/Tasks/OOP20/src)
+* [10 ArrayList tasks](/Tasks/ArrayList10/src)
+* [4 Stream tasks](/Tasks/Stream4/src)
 
 # ⚙️Configuration
 Just open the project in your IDE.

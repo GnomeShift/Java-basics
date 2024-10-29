@@ -18,6 +18,7 @@
 * [20 работ ООП](/Tasks/OOP20/src)
 * [10 работ ArrayList](/Tasks/ArrayList10/src)
 * [4 работы Stream](/Tasks/Stream4/src)
+* [15 работ DateTime](/Tasks/DateTime15/src)
 
 # ⚙️Конфигурация
 Просто открой этот проект в своей IDE.

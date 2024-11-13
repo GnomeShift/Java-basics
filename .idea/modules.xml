@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayChanger/ArrayChanger.iml" filepath="$PROJECT_DIR$/ArrayChanger/ArrayChanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/ArrayList10/ArrayList10.iml" filepath="$PROJECT_DIR$/Tasks/ArrayList10/ArrayList10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KT/Calculator_KT1/Calculator_KT1.iml" filepath="$PROJECT_DIR$/KT/Calculator_KT1/Calculator_KT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Converter/Converter.iml" filepath="$PROJECT_DIR$/Converter/Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/DateTime15/DateTime15.iml" filepath="$PROJECT_DIR$/Tasks/DateTime15/DateTime15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/First20/First20.iml" filepath="$PROJECT_DIR$/Tasks/First20/First20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java basics.iml" filepath="$PROJECT_DIR$/.idea/Java basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Lambda10/Lambda10.iml" filepath="$PROJECT_DIR$/Tasks/Lambda10/Lambda10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/OOP20/OOP20.iml" filepath="$PROJECT_DIR$/Tasks/OOP20/OOP20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Singleton4/Singleton4.iml" filepath="$PROJECT_DIR$/Tasks/Singleton4/Singleton4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Stream4/Stream4.iml" filepath="$PROJECT_DIR$/Tasks/Stream4/Stream4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KT/Task Manager KT2/Task Manager KT2.iml" filepath="$PROJECT_DIR$/KT/Task Manager KT2/Task Manager KT2.iml" />
+    </modules>
+  </component>
+</project>

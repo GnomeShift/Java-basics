@@ -20,6 +20,7 @@
 * [4 работы Stream](Tasks/Stream4/src)
 * [15 работ DateTime](Tasks/DateTime15/src)
 * [10 работ Lambda](Tasks/Lambda10/src)
+* [12 работ Threads](Tasks/Threads12/src)
 
 # ⚙️Конфигурация
 Просто открой этот проект в своей IDE.

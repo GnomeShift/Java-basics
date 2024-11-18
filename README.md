@@ -20,6 +20,7 @@ This repository contains my study tasks.
 * [4 Stream tasks](Tasks/Stream4/src)
 * [15 DateTime tasks](Tasks/DateTime15/src)
 * [10 Lambda tasks](Tasks/Lambda10/src)
+* [12 Threads tasks](Tasks/Threads12/src)
 
 # ⚙️Configuration
 Just open the project in your IDE.

@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Tasks/Singleton4/Singleton4.iml" filepath="$PROJECT_DIR$/Tasks/Singleton4/Singleton4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tasks/Stream4/Stream4.iml" filepath="$PROJECT_DIR$/Tasks/Stream4/Stream4.iml" />
       <module fileurl="file://$PROJECT_DIR$/KT/Task Manager KT2/Task Manager KT2.iml" filepath="$PROJECT_DIR$/KT/Task Manager KT2/Task Manager KT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Threads12/Threads12.iml" filepath="$PROJECT_DIR$/Tasks/Threads12/Threads12.iml" />
     </modules>
   </component>
 </project>

@@ -21,6 +21,7 @@
 * [15 работ DateTime](Tasks/DateTime15/src)
 * [10 работ Lambda](Tasks/Lambda10/src)
 * [12 работ Threads](Tasks/Threads12/src)
+* [9 работ Servlet](Tasks/Servlet9/src)
 
 # ⚙️Конфигурация
 Просто открой этот проект в своей IDE.

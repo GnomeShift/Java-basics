@@ -21,6 +21,7 @@ This repository contains my study tasks.
 * [15 DateTime tasks](Tasks/DateTime15/src)
 * [10 Lambda tasks](Tasks/Lambda10/src)
 * [12 Threads tasks](Tasks/Threads12/src)
+* [9 Servlet tasks](Tasks/Servlet9/src)
 
 # ⚙️Configuration
 Just open the project in your IDE.

@@ -22,6 +22,8 @@
 * [10 работ Lambda](Tasks/Lambda10/src)
 * [12 работ Threads](Tasks/Threads12/src)
 * [9 работ Servlet](Tasks/Servlet9/src)
+> [!WARNING]
+> Работы Servlet несовместимы с версией Tomcat < 10.
 
 # ⚙️Конфигурация
 Просто открой этот проект в своей IDE.

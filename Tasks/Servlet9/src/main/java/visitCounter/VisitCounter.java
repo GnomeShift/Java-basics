@@ -1,6 +1,5 @@
 package visitCounter;
 
-
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -16,7 +15,11 @@ public class VisitCounter extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         ServletContext context = getServletContext();
-        int visitCounter = (Integer) context.getAttribute("visitCounter");
+        Integer visitCounter = (Integer) context.getAttribute("visitCounter");
+
+        if (visitCounter == null) {
+            visitCounter = 0;
+        }
 
         visitCounter++;
         context.setAttribute("visitCounter", visitCounter);
@@ -29,7 +32,7 @@ public class VisitCounter extends HttpServlet {
         out.println("<title>Servlet VisitCounter</title>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h1>visitCounter" + visitCounter + "</h1>");
+        out.println("<h1>Посещений страницы: " + visitCounter + "</h1>");
         out.println("</body>");
         out.println("</html>");
     }

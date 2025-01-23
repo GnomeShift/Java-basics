@@ -17,11 +17,11 @@ public class InputForm extends HttpServlet {
         PrintWriter out = response.getWriter();
         out.println("<html><body>");
         out.println("<form action=\"input-form\" method=\"post\">");
-        out.println("<label for=\"name\">Name:</label><br>");
+        out.println("<label for=\"name\">Имя:</label><br>");
         out.println("<input type=\"text\" id=\"name\" name=\"name\"><br>");
-        out.println("<label for=\"age\">Age:</label><br>");
+        out.println("<label for=\"age\">Возраст:</label><br>");
         out.println("<input type=\"text\" id=\"age\" name=\"age\"><br>");
-        out.println("<input type=\"submit\" value=\"Submit\">");
+        out.println("<input type=\"submit\" value=\"Отправить\">");
         out.println("</form>");
         out.println("</body></html>");
     }
@@ -41,7 +41,7 @@ public class InputForm extends HttpServlet {
         out.println("<title>Servlet InputForm</title>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h1>Result</h1>");
+        out.println("<h1>Результат</h1>");
         out.println("<p>Имя: " + name + "</p>");
         out.println("<p>Год рождения: " + birthYear + "</p>");
         out.println("</body>");

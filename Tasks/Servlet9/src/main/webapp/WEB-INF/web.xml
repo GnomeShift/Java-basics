@@ -3,4 +3,40 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
          version="6.0">
+
+    <servlet>
+        <servlet-name>helloServlet</servlet-name>
+        <servlet-class>helloServlet.HelloServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>helloServlet</servlet-name>
+        <url-pattern>/hello-servlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>inputForm</servlet-name>
+        <servlet-class>inputForm.InputForm</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>inputForm</servlet-name>
+        <url-pattern>/input-form</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>visitCounter</servlet-name>
+        <servlet-class>visitCounter.VisitCounter</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>visitCounter</servlet-name>
+        <url-pattern>/visit-counter</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>nameMemorizer</servlet-name>
+        <servlet-class>nameMemorizer.NameMemorizer</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>nameMemorizer</servlet-name>
+        <url-pattern>/name-memorizer</url-pattern>
+    </servlet-mapping>
 </web-app>

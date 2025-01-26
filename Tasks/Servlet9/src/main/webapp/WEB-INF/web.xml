@@ -39,4 +39,13 @@
         <servlet-name>nameMemorizer</servlet-name>
         <url-pattern>/name-memorizer</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>jsonProcessor</servlet-name>
+        <servlet-class>jsonProcessor.JsonProcessor</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>jsonProcessor</servlet-name>
+        <url-pattern>/json-processor</url-pattern>
+    </servlet-mapping>
 </web-app>

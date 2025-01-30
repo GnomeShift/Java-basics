@@ -48,4 +48,13 @@
         <servlet-name>jsonProcessor</servlet-name>
         <url-pattern>/json-processor</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>fileUploader</servlet-name>
+        <servlet-class>fileUploader.FileUploader</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>fileUploader</servlet-name>
+        <url-pattern>/file-uploader</url-pattern>
+    </servlet-mapping>
 </web-app>

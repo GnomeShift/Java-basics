@@ -13,6 +13,7 @@
   <li><a href="visit-counter">Visit Counter</a></li>
   <li><a href="name-memorizer">Name Memrorizer</a></li>
   <li><a href="json-processor">Json Processor</a></li>
+  <li><a href="file-uploader">File Uploader</a></li>
   </ol>
 </body>
 </html>

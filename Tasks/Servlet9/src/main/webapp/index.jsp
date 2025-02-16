@@ -15,6 +15,7 @@
   <li><a href="json-processor">Json Processor</a></li>
   <li><a href="file-uploader">File Uploader</a></li>
   <li><a href="auth-servlet">Auth Servlet</a></li>
+  <li><a href="switch-page">Switch Page</a></li>
   </ol>
 </body>
 </html>

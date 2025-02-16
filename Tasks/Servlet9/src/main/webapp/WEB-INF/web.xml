@@ -66,4 +66,13 @@
         <servlet-name>authServlet</servlet-name>
         <url-pattern>/auth-servlet</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>switchPage</servlet-name>
+        <servlet-class>switchPage.SwitchPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>switchPage</servlet-name>
+        <url-pattern>/switch-page</url-pattern>
+    </servlet-mapping>
 </web-app>

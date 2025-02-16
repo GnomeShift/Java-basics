@@ -57,4 +57,13 @@
         <servlet-name>fileUploader</servlet-name>
         <url-pattern>/file-uploader</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>authServlet</servlet-name>
+        <servlet-class>authServlet.AuthServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>authServlet</servlet-name>
+        <url-pattern>/auth-servlet</url-pattern>
+    </servlet-mapping>
 </web-app>
